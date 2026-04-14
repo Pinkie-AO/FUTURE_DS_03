@@ -17,6 +17,7 @@ a) Key Metrics (KPIs)
 b) Funnel Breakdown
 
 The marketing funnel follows three stages: Contacted → Engaged → Converted
+
 STAGE 1: CONTACTED
 
    41,000 Total Leads
@@ -26,7 +27,8 @@ STAGE 1: CONTACTED
 
    13.66% Engagement Rate
     ↓
-    STAGE 2: ENGAGED
+   
+STAGE 2: ENGAGED
 
    5,625 Qualified Leads
 
@@ -35,7 +37,7 @@ STAGE 1: CONTACTED
 
    82.49% Conversion Rate
     ↓
-    STAGE 3: CONVERTED
+STAGE 3: CONVERTED
 
    4,640 Final Conversions
 
