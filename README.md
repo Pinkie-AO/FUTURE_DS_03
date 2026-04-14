@@ -3,6 +3,7 @@
  Project Overview
 
 This project analyzes a bank's marketing funnel to identify where potential customers drop off and which factors lead to successful conversions. The goal is to provide data-driven recommendations to optimize campaign performance and increase the overall conversion rate.
+
 a) Key Metrics (KPIs)
 
   Total Leads: 41,000
