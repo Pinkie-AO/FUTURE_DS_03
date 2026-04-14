@@ -18,10 +18,13 @@ b) Funnel Breakdown
 
 The marketing funnel follows three stages: Contacted → Engaged → Converted
 
-Stage,Volume,Conversion from Previous Stage
-Contacted,"41,000",-
-Engaged,"5,625",13.66%
-Converted,"4,640",82.49%
+graph TD
+  A[<b>Contacted</b><br/>41,000 Leads] -->|13.66% Engagement| B[<b>Engaged</b><br/>5,625 Leads]
+  B -->|82.49% Conversion| C[<b>Converted</b><br/>4,640 Customers]
+  
+  style A fill:#f9f,stroke:#333,stroke-width:2px
+  style B fill:#bbf,stroke:#333,stroke-width:2px
+  style C fill:#bfb,stroke:#333,stroke-width:2px
 
 Key Insight: The most significant drop-off occurs between the Contacted and Engaged stages. However, once a lead is engaged, they have an incredibly high conversion probability (over 80%).
 
